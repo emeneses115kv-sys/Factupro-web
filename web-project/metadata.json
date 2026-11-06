@@ -1,0 +1,6 @@
+{
+  "name": "EM Servicios Eléctricos",
+  "description": "Sistema de gestión empresarial, facturación DTE, catálogo multiproveedor (Novey, Cochez, Doit Center), cotizaciones con firma digital y exportación PDF/Excel/Word.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
